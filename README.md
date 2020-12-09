@@ -22,4 +22,12 @@
 
 </br>
 
-![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamanOli&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+<a href="https://github.com/NamanOli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOli&theme=dark&hide_langs_below=1" height="220px"/>
+</a>
+<a href="https://github.com/NamanOli">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=NamanOli&show_icons=true&theme=dark&line_height=27" alt="Naman's github stats" height="220px" />
+</a>
+
