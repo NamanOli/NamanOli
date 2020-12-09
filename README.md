@@ -1,7 +1,7 @@
 ### Bonjour 👋, I'm [Naman](https://namanoli.wordpress.com/)!
 
 <a href="https://twitter.com/Oli_Naman">
-  <img align="left" alt="Naman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Naman's Twitter" width="22px" color=#63c0f5 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/naman-oli-01627518b/">
   <img align="left" alt="Naman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
