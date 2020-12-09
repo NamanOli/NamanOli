@@ -23,7 +23,7 @@
 </br>
 
 
-
+**Languages and Tools:** 
 <a href="https://github.com/NamanOli">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOli&theme=dark&hide_langs_below=1" height="220px"/>
 </a>
