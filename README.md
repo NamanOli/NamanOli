@@ -7,12 +7,14 @@
   <img align="left" alt="Naman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<img src='media.gif' align='right'>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NamanOli.NamanOli)
 [![GitHub followers](https://img.shields.io/github/followers/NamanOli.svg?style=social&label=Follow)](https://github.com/NamanOli?tab=followers)
 
 #### Talking about Personal Stuffs!
 
-<img src='media.gif' align='right'>
+
 
 - 🔭 I’m currently working on a React project.
 - 🤔 I’m looking for help with anything in which you have expertise.
