@@ -12,7 +12,7 @@
 
 #### Talking about Personal Stuffs!
 
-<img src='https://media.tenor.com/images/ccae3320ab522c1d09e041f1f7ffea74/tenor.gif' align='right'>
+<img src='https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707' align='right'>
 
 - 🔭 I’m currently working on a React project.
 - 🤔 I’m looking for help with anything in which you have expertise.
