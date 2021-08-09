@@ -30,10 +30,9 @@
 
 
 <br>
-<a href="https://github.com/NamanOli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOli&theme=dark&hide_langs_below=1" height="220px"/>
-</a>
-<a href="https://github.com/NamanOli">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=NamanOli&show_icons=true&theme=dark&line_height=27" alt="Naman's github stats" height="220px" />
-</a>
-
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NamanOli&show_icons=true&theme=calm" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NamanOli&theme=calm" />
+</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOli&layout=compact&theme=calm)](https://github.com/889-dj/github-readme-stats)
