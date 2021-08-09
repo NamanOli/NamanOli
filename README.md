@@ -37,5 +37,5 @@
 </p>
 
 <p align="centre">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOli&layout=compact&theme=calm)" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOli&layout=compact&theme=calm" />
 </p>
