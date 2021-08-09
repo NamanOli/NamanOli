@@ -1,6 +1,6 @@
 ## Bonjour 👋 , I'm [Naman](https://namanoli.me/)!
 
-<img src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' align='right' height="260" width="400">
+<img src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' align='right' height="300" width="400">
 
 <a href="https://twitter.com/Oli_Naman">
   <img align="left" alt="Naman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -36,7 +36,7 @@
 ### Languages and Tools 💻:
 <br/>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/53824950/128655743-939c9dc7-1b71-474d-87cd-fb481f0c12fe.png" alt="C++" height="40"style="vertical-align:top;
+<img src="https://user-images.githubusercontent.com/53824950/128655743-939c9dc7-1b71-474d-87cd-fb481f0c12fe.png" alt="C++" height="45"style="vertical-align:top;
 margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
