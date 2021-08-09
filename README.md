@@ -34,9 +34,6 @@
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NamanOli&show_icons=true&theme=calm" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NamanOli&theme=calm" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOli&layout=compact&theme=calm" />
+	<img width="48%" height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOli&layout=compact&theme=calm" />
 </p>
 
-<p align="centre">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanOli&layout=compact&theme=calm" />
-</p>
