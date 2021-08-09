@@ -33,7 +33,7 @@
 
 ## My Contributions
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=NamanOli&theme=calm"><br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=NamanOli&theme=calm&bg_color=black&color=878787&line=orange&point=00000000&area=true&hide_border=true"><br><br>
 
 ### Languages and Tools 💻:
 <br/>
