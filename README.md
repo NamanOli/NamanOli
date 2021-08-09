@@ -1,5 +1,6 @@
-<img src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' align='right' height="260" width="400">
 ### Bonjour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm [Naman](https://namanoli.wordpress.com/)!
+
+<img src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' align='right' height="260" width="400">
 
 <a href="https://twitter.com/Oli_Naman">
   <img align="left" alt="Naman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
