@@ -9,8 +9,8 @@
 
 <img src='media.gif' align='right'>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=NamanOli.NamanOli&theme=calm)
-[![GitHub followers](https://img.shields.io/github/followers/NamanOli.svg?style=social&label=Follow&theme=calm)](https://github.com/NamanOli?tab=followers)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=NamanOli.NamanOli)
+[![GitHub followers](https://img.shields.io/github/followers/NamanOli.svg?style=social&label=Follow)](https://github.com/NamanOli?tab=followers)
 
 #### Talking about Personal Stuffs!
 
