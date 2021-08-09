@@ -7,7 +7,7 @@
   <img align="left" alt="Naman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<img src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' align='right' height="400" width="350">
+<img src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' align='right' height="400" width="4000">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NamanOli.NamanOli)
 [![GitHub followers](https://img.shields.io/github/followers/NamanOli.svg?style=social&label=Follow)](https://github.com/NamanOli?tab=followers)
