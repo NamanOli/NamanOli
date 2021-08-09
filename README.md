@@ -15,7 +15,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NamanOli.NamanOli)
 [![GitHub followers](https://img.shields.io/github/followers/NamanOli.svg?style=social&label=Follow)](https://github.com/NamanOli?tab=followers)
 
- <br/>
+
  
 ### Talking about Personal Stuffs!
 
@@ -34,10 +34,6 @@
 
 
 #### Languages and Tools 💻:
-
-
-
-## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -47,7 +43,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/53824950/128655743-939c9dc7-1b71-474d-87cd-fb481f0c12fe.png" alt="C++" height="40" style="vertical-align:top;
+<img src="https://user-images.githubusercontent.com/53824950/128655743-939c9dc7-1b71-474d-87cd-fb481f0c12fe.png" alt="C++" height="50" style="vertical-align:top;
 margin:4px">
 
 
