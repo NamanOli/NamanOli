@@ -1,3 +1,4 @@
+<img src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' align='right' height="260" width="400">
 ### Bonjour <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm [Naman](https://namanoli.wordpress.com/)!
 
 <a href="https://twitter.com/Oli_Naman">
@@ -8,7 +9,7 @@
 </a>
 
 
-<img src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' align='right' height="260" width="400">
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NamanOli.NamanOli)
 [![GitHub followers](https://img.shields.io/github/followers/NamanOli.svg?style=social&label=Follow)](https://github.com/NamanOli?tab=followers)
