@@ -1,4 +1,4 @@
-## Bonjour 👋 , I'm [Naman](https://namanoli.me/)!
+## Bonjour 👋 , I'm [Naman](https://www.linkedin.com/in/naman-oli-01627518b/)!
 
 <img src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' align='right'  height="250" width="400">
 
