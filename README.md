@@ -2,7 +2,7 @@
 
 <img src='https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif' align='right'  height="250" width="400">
 
-<a href="https://twitter.com/Oli_Naman">
+<a href="https://twitter.com/naman_dev1">
   <img align="left" alt="Naman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/naman-oli-01627518b/">
